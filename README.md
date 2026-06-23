@@ -98,17 +98,9 @@ Copy `.env.example` to `.env` and fill in your keys:
 cp .env.example .env
 ```
 
-```env
-YOUTUBE_API_KEY=your_youtube_api_key_here
-GROQ_API_KEY=your_groq_api_key_here
-DB_HOST=your_aiven_mysql_host
-DB_PORT=your_port
-DB_USER=your_db_user
-DB_PASSWORD=your_db_password
-DB_NAME=your_db_name
-```
 
-### 4. Run the app
+
+### 3. Run the app
 
 ```bash
 streamlit run app.py
