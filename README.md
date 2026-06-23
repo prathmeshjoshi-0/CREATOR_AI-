@@ -155,4 +155,4 @@ MIT License — feel free to fork and build on this.
 
 ---
 
-*Built as a Final Year Capstone Project | Data Analysis*
+*Built as a Final Year Capstone Project | Data Analysis and ML*
