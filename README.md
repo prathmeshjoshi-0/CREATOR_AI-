@@ -153,7 +153,7 @@ streamlit run app.py
 
 **Prathmesh Joshi**
 - GitHub: [@prathmeshjoshi-0](https://github.com/prathmeshjoshi-0)
-- LinkedIn: [Add your LinkedIn here]
+- LinkedIn: https://www.linkedin.com/in/prathmesh-joshi-data/
 
 ---
 
